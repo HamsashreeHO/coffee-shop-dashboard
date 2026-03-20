@@ -5,7 +5,21 @@ This project focuses on **data cleaning, business insights, and interactive visu
 
 
 
-![App Demo](screenshots/dashboard_overview.png)
+## 📸 Dashboard Preview
+
+### 🔹 Main Dashboard
+<p align="center">
+  <img src="images/screenshot1.png" width="80%"/>
+</p>
+
+### 🔹 Detailed Insights
+<p align="center">
+  <img src="images/screenshot2.png" width="45%"/>
+  <img src="images/screenshot3.png" width="45%"/>
+  <img src="images/screenshot4.png" width="45%"/>
+  <img src="images/screenshot5.png" width="45%"/>
+  <img src="images/screenshot6.png" width="45%"/>
+</p>
 
 ##  Project Overview
 
